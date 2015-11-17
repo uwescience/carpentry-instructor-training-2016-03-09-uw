@@ -24,4 +24,4 @@ Joining mailing lists: http://software-carpentry.org/pages/join.html
 ##Blurb for README (to replace import instructions)
 
 This repository contains a website for Software and Data Instructor Training at ....
-[More details](http://instructor-training-session-template.github.io/....)
+[  More details ]( http://instructor-training-session-template.github.io/.... )
