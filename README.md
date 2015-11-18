@@ -1,6 +1,6 @@
 # workshop-template
 
-This repository is [Software Carpentry](http://software-carpentry.org)'s
+This repository is [Carpentry Instructor Training]()'s
 template for creating websites for workshops.
 
 1.  Do *not* fork this repository directly on GitHub.
@@ -233,4 +233,4 @@ or would like to suggest improvements,
 please [file an issue](https://github.com/swcarpentry/workshop-template/issues)
 or [mail us](mailto:admin@software-carpentry.org).
 
-[import]: http://import.github.com/new?import_url=https://github.com/swcarpentry/workshop-template
+[import]: http://import.github.com/new?import_url=https://github.com/carpentry-instructor-training/instructor-training-session-template
