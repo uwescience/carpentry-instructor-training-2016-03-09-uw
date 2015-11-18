@@ -8,6 +8,7 @@ workshop_site   : "http://carpentry-instructor-training.github.io/instructor-tra
 #--------------------------------------------------------------------------------
 cti_contact     : "training-help@software-carpentry.org"
 cti_github      : "https://github.com/carpentry-instructor-training"
+cti_githumio    : "http://carpentry-instructor-training.github.io/"
 cti_curriculum  : "http://swcarpentry.github.io/instructor-training/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
@@ -24,13 +25,12 @@ swc_vm          : "https://docs.google.com/uc?id=0B4Kr6DYkzkQtSTZLQzF4aVB4NDQ&ex
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
-dc_blog        : "http://software-carpentry.org/feed.xml"
-dc_contact     : "admin@software-carpentry.org"
-dc_files       : "http://files.software-carpentry.org"
-dc_github      : "http://github.com/swcarpentry"
-dc_githubio    : "http://swcarpentry.github.io/"
-dc_site        : "http://software-carpentry.org"
-dc_twitter     : "http://twitter.com/swcarpentry"
+dc_blog        : "http://www.datacarpentry.org/blog/"
+dc_contact     : "info@datacarpentry.org"
+dc_github      : "https://github.com/datacarpentry"
+dc_githubio    : "http://datacarpentry.github.io/"
+dc_site        : "http://data-carpentry.org"
+dc_twitter     : "http://twitter.com/datacarpentry"
 #--------------------------------------------------------------------------------
 # Settings for Jekyll - should not need to be modified.
 #--------------------------------------------------------------------------------
