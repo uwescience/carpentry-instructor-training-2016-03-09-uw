@@ -29,7 +29,7 @@ dc_blog        : "http://www.datacarpentry.org/blog/"
 dc_contact     : "info@datacarpentry.org"
 dc_github      : "https://github.com/datacarpentry"
 dc_githubio    : "http://datacarpentry.github.io/"
-dc_site        : "http://data-carpentry.org"
+dc_site        : "http://datacarpentry.org"
 dc_twitter     : "http://twitter.com/datacarpentry"
 #--------------------------------------------------------------------------------
 # Settings for Jekyll - should not need to be modified.
