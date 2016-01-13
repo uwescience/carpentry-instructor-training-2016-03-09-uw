@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/carpentry-instructor-training/instructor-training-session-template"
-workshop_site   : "http://carpentry-instructor-training.github.io/instructor-training-session-template"
+workshop_repo   : "https://github.com/uwescience/carpentry-instructor-training-2016-03-09-uw"
+workshop_site   : "http://uwescience.github.io/carpentry-instructor-training-2016-03-09-uw"
 #--------------------------------------------------------------------------------
 # Standard Carpentry Instructor Training settings - should not need to be modified.
 #--------------------------------------------------------------------------------
