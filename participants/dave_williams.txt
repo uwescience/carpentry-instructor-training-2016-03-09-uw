@@ -1,0 +1,2 @@
+Dave Williams
+Tracing runtime errors back across multiple files and classes, trying to reconstruct the active memory state at each level to see where things went wrong. 
