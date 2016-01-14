@@ -1,0 +1,3 @@
+Bryna Hazelton
+
+The hardest thing for me when I started programming was figuring out syntax and how to find the references I needed. My first progamming experience was in c for a physics class I took. There was no introduction to programming or the language, and while the program logic was fairly natural for me, the syntax was not. It took me awhile to find a good reference that gave me the information I needed quickly without spending a lot of time on things I didn't need help with. Now I rely on Google, but the web was much less helpful then.
