@@ -1,0 +1,4 @@
+Jeffrey Arnold
+
+Frankly, it is hard to remember. I first earned programming with Stata, and any confusion blended with that of learning econometrics.
+Next, when I started to teach myself Java, I did not know what the command line was.
