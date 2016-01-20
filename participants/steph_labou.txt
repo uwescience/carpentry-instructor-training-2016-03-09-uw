@@ -1,0 +1,3 @@
+Name: Stephanie Labou
+
+The steep learning curve was the most difficult part. When I started, I was mostly self-taught and clearing those first hurdles (e.g. being comfortable with R syntax was essentially learning a new language) was tough. Finding online resources helped a great deal, as did lots and lots of trial and error.
