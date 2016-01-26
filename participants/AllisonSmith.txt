@@ -1,3 +1,0 @@
-Allison Smith
-
-The hardest thing for me when I first started programming was installing programs via the command line and receiving error messages which I did not understand.
