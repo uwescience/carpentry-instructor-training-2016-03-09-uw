@@ -1,0 +1,1 @@
+The hardest thing when I started programming was accessing a computer. I was in an introduction to programming course, and had to do all my assignments in the university computer lab. I would hand write my best guest at a solution to each programming assignment, then go to the lab, type it up and debug.
